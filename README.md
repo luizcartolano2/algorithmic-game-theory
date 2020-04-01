@@ -1,26 +1,6 @@
-# Github Template
+# Algorithmic Game Theory
 
-Github Template is a repository that aims to make easy to create new repos.
-
-The following sections are examples for a good README.md .
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
+Repository to share my personal studies on the algorithmic game theory subject.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
